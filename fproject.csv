@@ -1,0 +1,321 @@
+Job_ID,CompanyID,Location,Designation,Details_ID,Company_name,Industry,number_of_employees,Involvement,Level,Total_applicants
+1001,155,India,User Experience Athlete,id0311,Ultrahuman,NULL,51-200 employees,Full-time,Entry level,31 applicants
+1002,146,India,Online part time work,id0301,The Job Man,Not Available,1-10 employees,Full-time,Entry level,33 applicants
+1003,100,"Gurugram, Haryana, India",Receptionist,id0220,NextDoor Global,Not Available,11-50 employees,Full-time,Entry level,15 applicants
+1004,54,"Gurugram, Haryana, India",Market Research Executive,id0120,"ExcelGens, Inc.",Not Available,"1,001-5,000 employees",Full-time,Entry level,14 applicants
+1005,68,"Delhi, Delhi, India",Customer Service Manager,id0139,Hindustan Recruitment,Not Available,11-50 employees,Full-time,Entry level,26 applicants
+1006,114,"Gurugram, Haryana, India",Business Development Associate,id0248,PlanetSpark,Not Available,"1,001-5,000 employees",Full-time,Entry level,23 applicants
+1007,9,"Mumbai, Maharashtra, India",All Position's - NAFFCO UAE,id0030,Ambe International-Recruitment and Mobility,Staffing and Recruiting,11-50 employees ,Full-time,Mid-Senior level,38 applicants
+1008,156,India,Community Coordinator,id0312,Uplers,Not Available,"1,001-5,000 employees",Full-time,Entry level,27 applicants
+1009,42,"Tiruvallur, Tamil Nadu, India",casa officer,id0106,DBS Bank,Banking,"10,001+ employees ",Full-time,Entry level,1 applicant
+1010,60,"Delhi, Delhi, India",Urgent Hiring (Online work),id0128,Forever Living Products India,Not Available,"10,001+ employees",Part-time,Entry level,9 applicants
+1011,81,"Delhi, India",Team Lead/Sr Executive,id0193,Justdial,Not Available,11-50 employees,Full-time,Entry level,37 applicants
+1012,76,"Delhi, India",Specialist,id0179,Invest India,Airlines and Aviation,"10,001+ employees ",Full-time,Mid-Senior level,58 applicants
+1013,78,"Vijayawada, Andhra Pradesh, India",Ground Staff,id0183,Jet Airways,Airlines and Aviation,"10,001+ employees ",Full-time,Entry level,14 applicants
+1014,89,India,BDA,id0202,MarsDevs,Airlines and Aviation,"10,001+ employees ",Full-time,Entry level,33 applicants
+1015,149,"Noida, Uttar Pradesh, India",Social Media Manager,id0304,Tradologie,Not Available,51-200 employees,Full-time,Entry level,5 applicants
+1016,17,"Goa, Goa, India",Multiple Positions in Goa,id0040,Belhem India,Human Resources Services,11-50 employees ,Full-time,Entry level,65 applicants
+1017,69,"Pune, Maharashtra, India",Intern/Graduate hire,id0140,HP,IT Services and IT Consulting,"10,001+ employees ",Full-time,Entry level,1 applicant
+1018,69,"Pune, Maharashtra, India",Intern/Graduate hire,id0141,HP,IT Services and IT Consulting,"10,001+ employees ",Part-time,Entry level,49 applicants
+1019,118,"Delhi, Delhi, India",Associate - Gurgaon- Technology Consulting,id0255,PwC India,Business Consulting and Services,"5,001-10,000 employees ",Full-time,Entry level,56 applicants
+1020,17,"Goa, India",Multiple Positions in Goa,id0039,Belhem India,Human Resources Services,11-50 employees ,Full-time,Entry level,21 applicants
+1021,42,"Delhi, Delhi, India",Relationship Manager,id0105,DBS Bank,Banking,"10,001+ employees ",Full-time,Entry level,1 applicant
+1022,37,"Kolkata, West Bengal, India",Urgent vacancy for CCE for WFH,id0076,Conneqt Business Solutions Limited,Outsourcing and Offshoring Consulting,"10,001+ employees ",Full-time,Entry level,8 applicants
+1023,13,"Guwahati, Assam, India",Associate/ Assistant Professor of Management,id0034,Assam down town University,Not Available,"1,001-5,000 employees",Full-time,Entry level,18 applicants
+1024,31,"Gurgaon, Haryana, India",Tele Relationship Manager,id0067,Citi,Financial Services,"10,001+ employees ",Full-time,Entry level,1 applicant
+1025,99,"Ranchi, Jharkhand, India",Event Coordinator,id0219,Next Level Events,Not Available,1-10 employees,Full-time,Entry level,4 applicants
+1026,25,"New Delhi, Delhi, India","Programmes and Communications Lead (Science, Innovation and Tech Team)",id0048,British High Commission in India,Not Available,"501-1,000 employees",Full-time,Entry level,69 applicants
+1027,35,"Gurugram, Haryana, India",BDA - Lead Generation,id0073,Coding Ninjas,Not Available,51-200 employees,Full-time,Entry level,10 applicants
+1028,132,"Gurugram, Haryana, India",Assistant Manager,id0270,SolarArise India Projects Pvt Ltd,Not Available,1-10 employees,Full-time,Entry level,5 applicants
+1029,49,"New Delhi, Delhi, India",Education Counselor,id0113,Ducat Education,Not Available,"501-1,000 employees",Full-time,Entry level,12 applicants
+1030,7,"Jamnagar, Gujarat, India",Data Entry,id0028,Alliance Recruitment Agency,Human Resources Services,51-200 employees ,Full-time,Entry level,13 applicants
+1031,92,"Mumbai, Maharashtra, India",Online Work for Students,id0206,MILLIONAIRE TRACK,Not Available,NA,Part-time,Entry level,46 applicants
+1032,78,"Chennai, Tamil Nadu, India",Site Supervisor,id0184,Jet Airways,Airlines and Aviation,"10,001+ employees ",Full-time,Entry level,7 applicants
+1033,136,India,SFMC,id0275,"StackNexus Inc, an Inc. 500 company",Not Available,51-200 employees,Contract,Entry level,4 applicants
+1034,163,"Kochi, Kerala, India",Wildcraft - Manager - Institution Sales,id0321,Wildcraft India,Manufacturing,"1,001-5,000 employees ",Full-time,Mid-Senior level,5 applicants
+1035,163,"Vishakhapatnam, Andhra Pradesh, India",Wildcraft - Manager - Institution Sales,id0322,Wildcraft India,Manufacturing,"1,001-5,000 employees ",Full-time,Mid-Senior level,1 applicant
+1036,139,"Chennai, Tamil Nadu, India",Lead,id0280,Sutherland,IT Services and IT Consulting,"10,001+ employees ",Full-time,Mid-Senior level,9 applicants
+1037,82,"Pune, Maharashtra, India",Project Coordinator,id0194,"KBR, Inc.",E-Learning Providers,51-200 employees ,Full-time,Entry level,1 applicant
+1038,169,"Hyderabad, Telangana, India",Growth Manager,id0329,Zolo,Not Available,"501-1,000 employees",Full-time,Entry level,8 applicants
+1039,111,"Delhi, Delhi, India",Customer Success (Indonesia/India),id0244,Peakflo (YC W22),IT Services and IT Consulting,11-50 employees ,Full-time,Entry level,16 applicants
+1040,44,"Delhi, India",Associate,id0108,Delhi jobs,Not Available,201-500 employees,Full-time,Entry level,3 applicants
+1041,139,"Hyderabad, Telangana, India",Lead-New Hire Training,id0282,Sutherland,IT Services and IT Consulting,"10,001+ employees ",Full-time,Mid-Senior level,4 applicants
+1042,29,"Gurugram, Haryana, India",Operations Associate C2B,id0065,CARS24 Australia,Motor Vehicle Manufacturing,51-200 employees ,Full-time,Associate,88 applicants
+1043,74,"Gurgaon, Haryana, India",Senior Executive-Corporate Sales,id0177,IndiGo (InterGlobe Aviation Ltd),Airlines and Aviation,"10,001+ employees ",Full-time,Mid-Senior level,6 applicants
+1044,69,"Pune, Maharashtra, India",Intern/Graduate hire,id0146,HP,IT Services and IT Consulting,"10,001+ employees ",Part-time,Entry level,50 applicants
+1045,77,"Bengaluru, Karnataka, India",Assistant Manager-Exports,id0180,ITC Limited,Airlines and Aviation,"10,001+ employees ",Full-time,Mid-Senior level,1 applicant
+1046,26,"Delhi, Delhi, India",Business Development Associate,id0049,BYJU'S,"10,001+ employees",S,Full-time,Entry level,13 applicants
+1047,73,"New Delhi, Delhi, India",Assistant Manager,id0175,IndiaMART InterMESH Limited,Airlines and Aviation,"10,001+ employees ",Full-time,Entry level,21 applicants
+1048,145,"Pune, Maharashtra, India",Academic Advisor,id0300,Testbook,E-Learning Providers,"501-1,000 employees ",Full-time,Entry level,13 applicants
+1049,135,"Bengaluru, Karnataka, India",Business Development Associate(Freshers/WalkIn Interviews Only),id0274,Square Yards,Not Available,"1,001-5,000 employees",Full-time,Entry level,3 applicants
+1050,147,"Delhi, Delhi, India",Market Representative- Soft Home/Textiles,id0302,"The TJX Companies, Inc.",Retail,"10,001+ employees ",Full-time,Entry level,44 applicants
+1051,140,"Bengaluru, Karnataka, India",Business Associate,id0294,Swiggy,Software Development,"1,001-5,000 employees ",Full-time,Entry level,1 applicant
+1052,93,"Hyderabad House, Delhi, India",Business Development Management (Institution Sales) Internship in Multiple locations at Monster India,id0207,Monster India,Airlines and Aviation,"10,001+ employees ",Full-time,Internship,7 applicants
+1053,139,"Mumbai, Maharashtra, India",Associate-Account Management,id0281,Sutherland,IT Services and IT Consulting,"10,001+ employees ",Full-time,Mid-Senior level,10 applicants
+1054,78,"Hyderabad, Telangana, India",Civil Engineer,id0181,Jet Airways,Airlines and Aviation,"10,001+ employees ",Full-time,Entry level,36 applicants
+1055,39,India,Data Science Intern,id0079,Corizo,Not Available,51-200 employees,Internship,Entry level,2 applicants
+1056,29,"Gurugram, Haryana, India",Operations Manager C2B,id0064,CARS24 Australia,Motor Vehicle Manufacturing,51-200 employees ,Full-time,Mid-Senior level,177 applicants
+1057,39,India,Data Science Intern,id0078,Corizo,Not Available,51-200 employees,Internship,Entry level,5 applicants
+1058,70,"Bengaluru, Karnataka, India",Manager,id0172,HSBC,Government Relations Services,51-200 employees ,Full-time,Entry level,195 applicants
+1059,27,"Ahmedabad, Gujarat, India",Micro Executive,id0061,CADILA HEALTHCARE LTD,Pharmaceutical Manufacturing,201-500 employees ,Full-time,Executive,5 applicants
+1060,69,"Bengaluru, Karnataka, India",Technical Engineer,id0144,HP,IT Services and IT Consulting,"10,001+ employees ",Full-time,Entry level,1 applicant
+1061,139,"Hyderabad, Telangana, India",Senior Manager - Transitions,id0283,Sutherland,IT Services and IT Consulting,"10,001+ employees ",Full-time,Mid-Senior level,20 applicants
+1062,69,"Jabalpur, Madhya Pradesh, India",Only Students (Freshers),id0145,HP,IT Services and IT Consulting,"10,001+ employees ",Full-time,Entry level,17 applicants
+1063,114,"Faridabad, Haryana, India",Business Development Associate,id0247,PlanetSpark,Not Available,"1,001-5,000 employees",Full-time,Entry level,13 applicants
+1064,39,India,Data Science Intern,id0080,Corizo,Not Available,51-200 employees,Internship,Entry level,25 applicants
+1065,107,"Hyderabad, Telangana, India","Assistant Manager - Hyderabad, TG",id0237,Optum,Hospitals and Health Care,"10,001+ employees ",Full-time,Mid-Senior level,1 applicant
+1066,64,"Salem, Tamil Nadu, India",Drywall Project Manager: ,id0133,gpac,Staffing and Recruiting,"501-1,000 employees ",Full-time,Entry level,1 applicant
+1067,69,"Delhi, India",General Manager- Diplomatic Relations ( Female Only ),id0142,HP,IT Services and IT Consulting,"10,001+ employees ",Full-time,Entry level,14 applicants
+1068,20,"New Delhi, Delhi, India",Sales Attendant,id0043,Bizgurukul,Not Available,51-200 employees,Part-time,Entry level,9 applicants
+1069,78,"Kolkata, West Bengal, India",Application Engineer,id0182,Jet Airways,Airlines and Aviation,"10,001+ employees ",Full-time,Entry level,13 applicants
+1070,69,"Pune, Maharashtra, India",Intern/Graduate hire,id0143,HP,IT Services and IT Consulting,"10,001+ employees ",Part-time,Entry level,51 applicants
+1071,163,"Bengaluru, Karnataka, India",Wildcraft - Manager/Executive - Corporate Sales,id0323,Wildcraft India,Manufacturing,"1,001-5,000 employees ",Full-time,Mid-Senior level,1 applicant
+1072,69,"Bengaluru, Karnataka, India",Technical Engineer,id0152,HP,IT Services and IT Consulting,"10,001+ employees ",Full-time,Entry level,1 applicant
+1073,86,"Lucknow, Uttar Pradesh, India",Service Advisor,id0199,LIC,Not Available,"5,001-10,000 employees",Part-time,Entry level,3 applicants
+1074,78,"Ahmadnagar, Maharashtra, India",Civil Site Engineer,id0186,Jet Airways,Airlines and Aviation,"10,001+ employees ",Full-time,Entry level,8 applicants
+1075,24,NULL,Intern/Graduate hire,id0047,Boon,Not Available,NA,Full-time,Entry level,1 applicant
+1076,69,"Nagpur, Maharashtra, India",Assistant,id0151,HP,IT Services and IT Consulting,"10,001+ employees ",Part-time,Entry level,13 applicants
+1077,53,India,Project Coordinator - German language expert (m/f/d),id0119,EU Tech Chamber (EUTECH),Not Available,51-200 employees,Full-time,Entry level,12 applicants
+1078,122,"Kheda, Gujarat, India",Assistant Manager,id0260,RITES LTD,Not Available,"1,001-5,000 employees",Full-time,Entry level,45 applicants
+1079,78,"Kolkata, West Bengal, India",Data Engineer,id0185,Jet Airways,Airlines and Aviation,"10,001+ employees ",Full-time,Entry level,5 applicants
+1080,97,"Gurgaon, Haryana, India","Production Manager, VP",id0213,NatWest Group,Banking,"10,001+ employees ",Full-time,Entry level,8 applicants
+1081,167,"Bengaluru, Karnataka, India",Non voice - Chat and Email,id0327,Your Pitchh,Staffing and Recruiting,51-200 employees ,Full-time,Entry level,26 applicants
+1082,158,"Bangalore Urban, Karnataka, India",Massive MIMO,id0314,VARITE INC,Not Available,"1,001-5,000 employees",Full-time,Entry level,8 applicants
+1083,41,"New Delhi, Delhi, India","Associate, Totogi (Remote) ",id0095,Crossover,IT Services and IT Consulting,"1,001-5,000 employees ",Full-time,Mid-Senior level,92 applicants
+1084,91,"Gurugram, Haryana, India",Customer Support Representatives (Asia/EMEA) (Remote),id0205,Mesh,Airlines and Aviation,"10,001+ employees ",Full-time,Associate,1 applicant
+1085,139,"Chennai, Tamil Nadu, India",AVP-Customer Experience,id0279,Sutherland,IT Services and IT Consulting,"10,001+ employees ",Full-time,Executive,17 applicants
+1086,97,"Gurgaon, Haryana, India","Production Manager, VP",id0212,NatWest Group,Banking,"10,001+ employees ",Full-time,Entry level,6 applicants
+1087,104,"Gurugram, Haryana, India",Customer Service Specialist,id0232,NowIntern?,Not Available,11-50 employees,Full-time,Entry level,31 applicants
+1088,165,"Noida, Uttar Pradesh, India",Relationship Management Specialist,id0325,WTF,Wellness and Fitness Services,1-10 employees ,Full-time,Mid-Senior level,2 applicants
+1089,153,"Srinagar, Jammu & Kashmir, India",Relationship Manager,id0308,Turtlemint,Not Available,"1,001-5,000 employees",Full-time,Entry level,14 applicants
+1090,160,"Gurugram, Haryana, India",Assistant Manager - Talent Aquisition,id0316,vivo India,Telecommunications,"5,001-10,000 employees ",Full-time,Executive,1 applicant
+1091,133,"Gurugram, Haryana, India",Project Coordinator,id0271,SOLTEL POWER PVT. LTD.,Not Available,11-50 employees,Full-time,Entry level,1 applicant
+1092,97,"Gurgaon, Haryana, India","Production Manager, VP",id0216,NatWest Group,Banking,"10,001+ employees ",Full-time,Entry level,8 applicants
+1093,154,"Dehradun, Uttarakhand, India",Program Associate -Curriculum Testing- Uttarakhand,id0309,Udhyam Learning Foundation,Education Administration Programs,11-50 employees ,Contract,Associate,19 applicants
+1094,102,"Tamil Nadu, India",Airport Ground Staff Job in Kochi,id0229,Ng Networks Solution,Airlines and Aviation,11-50 employees ,Full-time,Executive,19 applicants
+1095,56,"Gautam Buddha Nagar, Uttar Pradesh, India",Operations Internship in Greater Noida at FarmLokal,id0124,Farmlokal,Internet Marketplace Platforms,11-50 employees ,Full-time,Internship,2 applicants
+1096,69,"Pune, Maharashtra, India",Intern/Graduate hire,id0149,HP,IT Services and IT Consulting,"10,001+ employees ",Part-time,Entry level,56 applicants
+1097,115,"Mumbai, Maharashtra, India",Sales Marketing Executive,id0251,Poptagg Technologies Pvt Ltd,Not Available,1-10 employees,Full-time,Entry level,1 applicant
+1098,58,"Mumbai, Maharashtra, India",Content Writer,id0126,Feedspot,Not Available,51-200 employees,Full-time,Entry level,2 applicants
+1099,69,"Bengaluru, Karnataka, India",Process Engineer,id0148,HP,IT Services and IT Consulting,"10,001+ employees ",Full-time,Entry level,1 applicant
+1100,97,"Gurgaon, Haryana, India","Production Manager, VP",id0214,NatWest Group,Banking,"10,001+ employees ",Full-time,Entry level,13 applicants
+1101,97,"Gurgaon, Haryana, India","Production Manager, VP",id0215,NatWest Group,Banking,"10,001+ employees ",Full-time,Entry level,7 applicants
+1102,166,"New Delhi, Delhi, India",Senior Specialist - Circular Economy,id0326,WWF-India,Not Available,201-500 employees,Full-time,Entry level,57 applicants
+1103,69,"Nagaland, India",Online urgent recruitment,id0150,HP,IT Services and IT Consulting,"10,001+ employees ",Part-time,Entry level,46 applicants
+1104,90,"Pune, Maharashtra, India",Data Entry part time job/internship at Pune in MentorBoxx,id0203,MentorBoxx,Not Available,51-200 employees,Part-time,Internship,143 applicants
+1105,91,"Gurugram, Haryana, India",Customer Support Representatives (Americas) (Remote),id0204,Mesh,Airlines and Aviation,"10,001+ employees ",Full-time,Associate,1 applicant
+1106,3,"Nagpur, Maharashtra, India",Urgent Vacancy for Airport Ground Staff Jobs,id0020,Airbov Solutions,IT Services and IT Consulting,11-50 employees ,Full-time,Executive,20 applicants
+1107,75,"Mumbai, Maharashtra, India",Professional Education Manager,id0178,INIFD South Mumbai,Airlines and Aviation,"10,001+ employees ",Full-time,Entry level,29 applicants
+1108,27,"Ahmedabad, Gujarat, India",QA Sr.Executive,id0062,CADILA HEALTHCARE LTD,Pharmaceutical Manufacturing,201-500 employees ,Full-time,Mid-Senior level,11 applicants
+1109,162,"Gurugram, Haryana, India",Project Manager,id0320,White Force Group,Staffing and Recruiting,201-500 employees ,Full-time,Mid-Senior level,2 applicants
+1110,52,"Gurgaon, Haryana, India",Requirement for Requirement for 3Ds Max Designer,id0118,ENGINEERING MAN POWER PLACEMENT.,Not Available,51-100 employees,Full-time,Entry level,1 applicant
+1111,114,"Gurugram, Haryana, India",PlanetSpark - Business Development Trainee,id0249,PlanetSpark,Not Available,"1,001-5,000 employees",Full-time,Internship,1 applicant
+1112,114,"Gurugram, Haryana, India",PlanetSpark - Business Development Trainee,id0250,PlanetSpark,Not Available,"1,001-5,000 employees",Full-time,Internship,1 applicant
+1113,103,"Bahadurgarh, Haryana, India",Hiring Alert JOB Hiring Agency Development Manager Salary Good,id0230,"Niyukti Systems, Inc",IT Services and IT Consulting,1-10 employees ,Full-time,Mid-Senior level,1 applicant
+1114,111,"Bengaluru, Karnataka, India",Customer Success (Indonesia/India),id0243,Peakflo (YC W22),IT Services and IT Consulting,11-50 employees ,Full-time,Entry level,22 applicants
+1115,55,"Tamil Nadu, India",Business Development Associate,id0121,Exotic Learning,Not Available,51-200 employees,Full-time,Entry level,7 applicants
+1116,16,"Mumbai, Maharashtra, India",Chat Process( Work From Home),id0038,Bajaj Auto Ltd,Manufacturing,"10,001+ employees ",Full-time,Entry level,1 applicant
+1117,127,"Gurugram, Haryana, India",Chief Manager Leadership Development,id0265,Samsung India,Computers and Electronics Manufacturing,"10,001+ employees ",Full-time,Mid-Senior level,1 applicant
+1118,137,"Gurugram, Haryana, India",Sales Analytics Support,id0276,STL - Sterlite Technologies Limited,Telecommunications,"1,001-5,000 employees ",Full-time,Entry level,54 applicants
+1119,70,"New Delhi, Delhi, India",VP and Head Administration,id0171,HSBC,Government Relations Services,51-200 employees ,Full-time,Entry level,49 applicants
+1120,138,"Kolkata, West Bengal, India",Urgent Requirement for a Reputed Company,id0277,Success Partner Consultants Pvt. Ltd.,Not Available,51-200 employees,Full-time,Entry level,17 applicants
+1121,117,"Delhi, Delhi, India",Associate - Gurgaon- Technology Consulting,id0253,PwC,Accounting,"10,001+ employees ",Full-time,Associate,51 applicants
+1122,69,"Pune, Maharashtra, India",Intern/Graduate hire,id0147,HP,IT Services and IT Consulting,"10,001+ employees ",Part-time,Entry level,56 applicants
+1123,39,India,Web development student intern,id0082,Corizo,Not Available,51-200 employees,Internship,Entry level,1 applicant
+1124,124,"Delhi, India",SBCC Expert,id0262,RTI International,Not Available,"1,001-5,000 employees",Full-time,Entry level,17 applicants
+1125,42,"Sivakasi, Tamil Nadu, India",CASA Sales Officer,id0104,DBS Bank,Banking,"10,001+ employees ",Full-time,Entry level,1 applicant
+1126,39,India,Finance Intern,id0083,Corizo,Not Available,51-200 employees,Internship,Entry level,28 applicants
+1127,131,"Chennai, Tamil Nadu, India",Opportunity For Fresher - Email & Chat Support (WFO),id0269,Softone HR Solutions,Not Available,11-50 employees,Full-time,Entry level,50 applicants
+1128,78,"Bhopal, Madhya Pradesh, India",Test / Cost Engineer,id0187,Jet Airways,Airlines and Aviation,"10,001+ employees ",Full-time,Entry level,3 applicants
+1129,39,India,cyber security Intern,id0081,Corizo,Not Available,51-200 employees,Internship,Entry level,1 applicant
+1130,139,"Navi Mumbai, Maharashtra, India",Associate - Customer Service - Work At Home (REF11B),id0278,Sutherland,IT Services and IT Consulting,"10,001+ employees ",Full-time,Entry level,63 applicants
+1131,36,"New Delhi, Delhi, India",GM/Sr. GM- Technical Services,id0074,Confidential,Not Available,"10,001+ employees",Full-time,Entry level,7 applicants
+1132,152,India,SME Math,id0307,Trivium Education,Not Available,201-500 employees,Part-time,Entry level,33 applicants
+1133,104,"Bengaluru, Karnataka, India",Business Development Associate,id0231,NowIntern?,Not Available,11-50 employees,Full-time,Entry level,23 applicants
+1134,72,"Chennai, Tamil Nadu, India",Program Assistant,id0174,IFC - International Finance Corporation,Airlines and Aviation,"10,001+ employees ",Full-time,Entry level,40 applicants
+1135,31,"Pune, Maharashtra, India",Assistant Vice President,id0068,Citi,Financial Services,"10,001+ employees ",Full-time,Entry level,1 applicant
+1136,4,Greater Madurai Area,SkyChina Product Owner,id0024,Airbus,Aviation and Aerospace Component Manufacturing,"10,001+ employees ",Full-time,Mid-Senior level,1 applicant
+1137,33,"Jaipur, Rajasthan, India",Marketing Executive,id0071,Classic Signages Pvt. Ltd.,Not Available,11-50 employees,Full-time,Entry level,3 applicants
+1138,59,"Farrukhnagar, Haryana, India",Trainer,id0127,Flipkart," Technology, Information and Internet","10,001+ employees ",Full-time,Entry level,120 applicants
+1139,128,India,PGT Economics,id0266,Sarvanga Education,Not Available,1-10 employees,Contract,Entry level,47 applicants
+1140,40,"Tiruchirappalli, Tamil Nadu, India",Loss Prevention Associate,id0094,Courtyard by Marriott,Hospitality,"10,001+ employees ",Full-time,Entry level,5 applicants
+1141,12,"New Delhi, Delhi, India",Deputy Manager,id0033,ASA,Not Available,"501-1,000 employees",Full-time,Entry level,8 applicants
+1142,5,Greater Delhi Area,Algoscale - Consultant - Presales,id0026,Algoscale,Software Development,51-200 employees ,Full-time,Mid-Senior level,1 applicant
+1143,108,"Gurgaon, Haryana, India",Field Supervisor-Construction,id0238,Otis Elevator Co.,Consumer Services,"10,001+ employees ",Full-time,Mid-Senior level,20 applicants
+1144,97,"Delhi, Delhi, India",Customer Service & Operations Senior Analyst,id0211,NatWest Group,Banking,"10,001+ employees ",Full-time,Associate,23 applicants
+1145,15,"New Delhi, Delhi, India",Airport Modern Trade Business development,id0037,Aviation Indeed??,Not Available,11-50 employees,Full-time,Entry level,49 applicants
+1146,102,"Chennai, Tamil Nadu, India",Airport Job 2022 - Ground Staff & Air Ticketing From Chennai,id0225,Ng Networks Solution,Airlines and Aviation,11-50 employees ,Full-time,Executive,20 applicants
+1147,154,"Delhi Cantonment, Delhi, India",Program Associate -Entrepreneurship Mindset Curriculum- Delhi,id0310,Udhyam Learning Foundation,Education Administration Programs,11-50 employees ,Contract,Associate,1 applicant
+1148,69,"Pune, Maharashtra, India",Intern/Graduate hire,id0153,HP,IT Services and IT Consulting,"10,001+ employees ",Part-time,Entry level,62 applicants
+1149,110,"Gurugram, Haryana, India",Remote BDM,id0241,OYO," Technology, Information and Internet","5,001-10,000 employees ",Full-time,Mid-Senior level,1 applicant
+1150,139,"Chennai, Tamil Nadu, India",Associate Manager - Team Manager,id0288,Sutherland,IT Services and IT Consulting,"10,001+ employees ",Full-time,Mid-Senior level,3 applicants
+1151,27,"Ahmedabad, Gujarat, India",Group Product Manager,id0058,CADILA HEALTHCARE LTD,Pharmaceutical Manufacturing,201-500 employees ,Full-time,Mid-Senior level,13 applicants
+1152,62,"Delhi, India",Marketing Intern,id0131,GoodSpace,Not Available,11-50 employees,Full-time,Entry level,19 applicants
+1153,26,India,Business Development Associate,id0050,BYJU'S,"10,001+ employees",S,Full-time,Entry level,33 applicants
+1154,27,"Kolkata, West Bengal, India",hiring for QA - QMS,id0057,CADILA HEALTHCARE LTD,Pharmaceutical Manufacturing,201-500 employees ,Full-time,Entry level,11 applicants
+1155,141,"Chandigarh, Chandigarh, India",Manager - Member Experience,id0295,Taggd,Human Resources Services,"1,001-5,000 employees ",Full-time,Mid-Senior level,1 applicant
+1156,82,"Gurgaon, Haryana, India",Technical Proffessional,id0195,"KBR, Inc.",E-Learning Providers,51-200 employees ,Full-time,Entry level,9 applicants
+1157,67,India,Coach (50 USD - 150 USD/hr),id0138,Headstrt,Not Available,1-10 employees,Contract,Entry level,31 applicants
+1158,27,"Bengaluru, Karnataka, India",hiring for QA - QMS,id0059,CADILA HEALTHCARE LTD,Pharmaceutical Manufacturing,201-500 employees ,Full-time,Entry level,35 applicants
+1159,22,"Mumbai, Maharashtra, India",Paid Marketing Intern based in GOA,id0045,Bombay Sunset,Not Available,11-50 employees,Full-time,Entry level,17 applicants
+1160,85,India,Business Development Associate,id0198,Lejhro Bootcamp," Technology, Information and Internet","501-1,000 employees ",Full-time,Entry level,10 applicants
+1161,102,"Kochi, Kerala, India",Airline Ground Staff,id0224,Ng Networks Solution,Airlines and Aviation,11-50 employees ,Full-time,Executive,11 applicants
+1162,139,"Navi Mumbai, Maharashtra, India",Associate - Customer Service - Work At Home (REF11B),id0289,Sutherland,IT Services and IT Consulting,"10,001+ employees ",Full-time,Entry level,59 applicants
+1163,109,"Delhi, Delhi, India",Checkpoint voucher,id0240,Overture Rede,IT Services and IT Consulting,11-50 employees ,Full-time,Mid-Senior level,4 applicants
+1164,130,"Indore, Madhya Pradesh, India",Quality Analyst,id0268,Siya,IT Services and IT Consulting,51-200 employees ,Full-time,Mid-Senior level,6 applicants
+1165,42,"Mumbai, Maharashtra, India",Relationship Manager,id0103,DBS Bank,Banking,"10,001+ employees ",Full-time,Entry level,2 applicants
+1166,109,"Delhi, Delhi, India",ORAN Advance,id0239,Overture Rede,IT Services and IT Consulting,11-50 employees ,Full-time,Mid-Senior level,1 applicant
+1167,134,India,Team Lead Online Chat Services,id0272,Sophos,Software Development,"1,001-5,000 employees ",Full-time,Mid-Senior level,130 applicants
+1168,102,"Kochi, Kerala, India",Urgent Vacancy for Airport Ground Staff Jobs,id0227,Ng Networks Solution,Airlines and Aviation,11-50 employees ,Full-time,Executive,30 applicants
+1169,125,"Jhagadia, Gujarat, India",Safety Incharge (AM),id0263,Sahaj Pharma - For HR Solutions,Staffing and Recruiting,1-10 employees ,Full-time,Mid-Senior level,14 applicants
+1170,139,"Mumbai, Maharashtra, India",Associate - Customer Service - Work At Home (REF11B),id0285,Sutherland,IT Services and IT Consulting,"10,001+ employees ",Full-time,Entry level,44 applicants
+1171,102,"Kochi, Kerala, India",Urgent Vacancy for Airport Ground Staff Jobs,id0226,Ng Networks Solution,Airlines and Aviation,11-50 employees ,Full-time,Executive,22 applicants
+1172,69,"Bengaluru, Karnataka, India",College Intern,id0154,HP,IT Services and IT Consulting,"10,001+ employees ",Full-time,Internship,32 applicants
+1173,120,"Gurgaon, Haryana, India",Global HR Coordinator,id0258,Ramboll,Civil Engineering,"10,001+ employees ",Full-time,Entry level,71 applicants
+1174,69,"Pune, Maharashtra, India",Intern/Graduate hire,id0155,HP,IT Services and IT Consulting,"10,001+ employees ",Part-time,Entry level,66 applicants
+1175,27,"Hyderabad, Telangana, India",hiring for QA - QMS,id0060,CADILA HEALTHCARE LTD,Pharmaceutical Manufacturing,201-500 employees ,Full-time,Entry level,25 applicants
+1176,139,"Navi Mumbai, Maharashtra, India",Associate - Customer Service - Work At Home (REF11B),id0286,Sutherland,IT Services and IT Consulting,"10,001+ employees ",Full-time,Entry level,42 applicants
+1177,139,"Navi Mumbai, Maharashtra, India",Associate - Customer Service - Work At Home (REF11B),id0287,Sutherland,IT Services and IT Consulting,"10,001+ employees ",Full-time,Entry level,30 applicants
+1178,69,"Pune, Maharashtra, India",Intern/Graduate hire,id0161,HP,IT Services and IT Consulting,"10,001+ employees ",Full-time,Entry level,75 applicants
+1179,1,India,Internship Program,id0011,Aashman Foundation,Not Available,"1,001-5,000 employees",Internship,Entry level,14 applicants
+1180,21,"Gurugram, Haryana, India",Multi Vacancies,id0044,Boffo Consultancy Services,Not Available,NAHAR SINGH is hiring for this job,Full-time,Entry level,25 applicants
+1181,69,"Pune, Maharashtra, India",Intern/Graduate hire,id0156,HP,IT Services and IT Consulting,"10,001+ employees ",Part-time,Entry level,33 applicants
+1182,69,"Pune, Maharashtra, India",Intern/Graduate hire,id0157,HP,IT Services and IT Consulting,"10,001+ employees ",Part-time,Entry level,67 applicants
+1183,162,"Noida, Uttar Pradesh, India",educational Counselor,id0318,White Force Group,Staffing and Recruiting,201-500 employees ,Full-time,Mid-Senior level,18 applicants
+1184,39,India,Finance Training and Internship,id0093,Corizo,Not Available,51-200 employees,Internship,Entry level,7 applicants
+1185,18,"Faridabad, Haryana, India",Quality Assurance Manager,id0041,Bhatia Alloy Forgings Private Limited,Not Available,201-500 employees,Full-time,Entry level,18 applicants
+1186,3,"Nagpur, Maharashtra, India",Urgent Vacancy for Airport Ground Staff Jobs,id0018,Airbov Solutions,IT Services and IT Consulting,11-50 employees ,Full-time,Executive,46 applicants
+1187,46,"Delhi, India",Analyst - Sparkle Fund,id0110,DMI Finance Private Limited,Financial Services,"501-1,000 employees ",Full-time,Associate,99 applicants
+1188,3,"Pune, Maharashtra, India",Urgent recruitment for Ground Staff,id0019,Airbov Solutions,IT Services and IT Consulting,11-50 employees ,Full-time,Executive,19 applicants
+1189,107,"Gurgaon, Haryana, India","Claims Representative - Gurgaon, HR",id0236,Optum,Hospitals and Health Care,"10,001+ employees ",Full-time,Entry level,87 applicants
+1190,119,"New Delhi, Delhi, India",Retail Sales Manager,id0257,Radio City India,Not Available,201-500 employees,Full-time,Entry level,17 applicants
+1191,88,"Gurgaon, Haryana, India",Sales Officer- Howrah,id0201,Mars,Not Available,Financial Services,Full-time,Mid-Senior level,11 applicants
+1192,66,"Jodhpur, Rajasthan, India",Relationship Manager,id0137,HDB Financial Services Ltd.,Not Available,"10,001+ employees",Full-time,Entry level,28 applicants
+1193,26,"Chennai, Tamil Nadu, India",Business Development Associate,id0051,BYJU'S,"10,001+ employees",S,Full-time,Entry level,1 applicant
+1194,102,"Kochi, Kerala, India",Kochi Airport Hiring for Ground ticketing,id0228,Ng Networks Solution,Airlines and Aviation,11-50 employees ,Full-time,Executive,1 applicant
+1195,107,"Hyderabad, Telangana, India","Assistant Manager - Hyderabad, TG",id0235,Optum,Hospitals and Health Care,"10,001+ employees ",Full-time,Mid-Senior level,120 applicants
+1196,39,"Mumbai, Maharashtra, India",Finance Intern,id0092,Corizo,Not Available,51-200 employees,Internship,Entry level,9 applicants
+1197,62,India,Marketing Intern,id0130,GoodSpace,Not Available,11-50 employees,Full-time,Entry level,16 applicants
+1198,19,"Agra, Uttar Pradesh, India",Buyer,id0042,bigbasket.com,Not Available,"10,001+ employees",Full-time,Entry level,43 applicants
+1199,27,"Baddi, Himachal Pradesh, India",Officer/Executive-EHS,id0056,CADILA HEALTHCARE LTD,Pharmaceutical Manufacturing,201-500 employees ,Full-time,Entry level,4 applicants
+1200,69,"Pune, Maharashtra, India",Intern/Graduate hire,id0158,HP,Not Available,"1,001-5,000 employees",Part-time,Entry level,69 applicants
+1201,69,"Bengaluru, Karnataka, India",College Intern,id0159,HP,IT Services and IT Consulting,"10,001+ employees ",Full-time,Internship,25 applicants
+1202,69,"Bengaluru, Karnataka, India",College Intern,id0160,HP,IT Services and IT Consulting,"10,001+ employees ",Full-time,Internship,19 applicants
+1203,39,India,Web Development Intern,id0089,Corizo,Not Available,51-200 employees,Internship,Entry level,1 applicant
+1204,34,"Delhi, Delhi, India",Digital Marketing/SMO/Social Media Internship in Delhi at Cocentrus,id0072,Cocentrus,Human Resources Services,1-10 employees ,Full-time,Internship,2 applicants
+1205,79,"New Delhi, Delhi, India",Recruiter,id0191,Jobline Consultants India Pvt. Ltd.,Not Available,201-500 employees,Full-time,Entry level,20 applicants
+1206,3,"Nagpur, Maharashtra, India",airport ground staff fresher,id0017,Airbov Solutions,IT Services and IT Consulting,11-50 employees ,Full-time,Executive,74 applicants
+1207,42,"Ahmedabad, Gujarat, India",Branch Manager - Ahmedabad,id0102,DBS Bank,Banking,"10,001+ employees ",Full-time,Entry level,2 applicants
+1208,31,"Chennai, Tamil Nadu, India",Officer,id0069,Citi,Financial Services,"10,001+ employees ",Full-time,Entry level,1 applicant
+1209,28,"Gurugram, Haryana, India",Business Development Associate,id0063,Careers360,Not Available,201-500 employees,Full-time,Entry level,6 applicants
+1210,39,India,Cloud Computing intern,id0090,Corizo,Not Available,51-200 employees,Internship,Entry level,6 applicants
+1211,157,"Bengaluru, Karnataka, India",Events and Community Associate,id0313,Upraised,Not Available,51-200 employees,Full-time,Entry level,26 applicants
+1212,139,"Navi Mumbai, Maharashtra, India",Associate - Customer Service - Work At Home (REF11B),id0290,Sutherland,IT Services and IT Consulting,"10,001+ employees ",Full-time,Entry level,36 applicants
+1213,39,India,Cyber Security Intern,id0091,Corizo,Not Available,51-200 employees,Internship,Entry level,4 applicants
+1214,118,Greater Kolkata Area,Associate,id0256,PwC India,Business Consulting and Services,"5,001-10,000 employees ",Full-time,Entry level,1 applicant
+1215,83,"Delhi, India",KPMG India Hiring for Stakeholder Engagement,id0196,KPMG India,Software Development,51-200 employees ,Full-time,Mid-Senior level,1 applicant
+1216,161,"Chennai, Tamil Nadu, India",DM Manager,id0317,VPlayed,Software Development,201-500 employees ,Full-time,Mid-Senior level,12 applicants
+1217,1,India,Internship,id0012,Aashman Foundation,Not Available,"1,001-5,000 employees",Internship,Entry level,27 applicants
+1218,139,"Chennai, Tamil Nadu, India",Associate,id0291,Sutherland,IT Services and IT Consulting,"10,001+ employees ",Full-time,Entry level,1 applicant
+1219,42,Greater Madurai Area,CASA SALES OFFICER,id0099,DBS Bank,Banking,"10,001+ employees ",Full-time,Entry level,1 applicant
+1220,96,"Bengaluru, Karnataka, India",Junior Relationship Executive operation,id0210,Muthoot Finance Ltd. - India,Not Available,1-10 employees,Full-time,Mid-Senior level,1 applicant
+1221,63,"New Delhi, Delhi, India",Guest Relations Associate,id0132,goSTOPS,Not Available,51-200 employees,Full-time,Entry level,3 applicants
+1222,41,"New Delhi, Delhi, India","Consultant, Totogi (Remote) ",id0096,Crossover,IT Services and IT Consulting,"1,001-5,000 employees ",Full-time,Mid-Senior level,39 applicants
+1223,27,"Chennai, Tamil Nadu, India",hiring for QA - QMS,id0055,CADILA HEALTHCARE LTD,Pharmaceutical Manufacturing,201-500 employees ,Full-time,Entry level,9 applicants
+1224,102,"Kochi, Kerala, India",Freshers//Air Ticketing Executive//Back office//Ground Staff//Admin Executive,id0223,Ng Networks Solution,Airlines and Aviation,11-50 employees ,Full-time,Executive,27 applicants
+1225,69,"Pune, Maharashtra, India",Intern/Graduate hire,id0163,HP,IT Services and IT Consulting,"10,001+ employees ",Part-time,Entry level,71 applicants
+1226,39,India,Web Development Intern,id0087,Corizo,Not Available,51-200 employees,Internship,Entry level,1 applicant
+1227,105,"Bengaluru, Karnataka, India",Growth Product Manager,id0233,"Omnify, Inc",Software Development,11-50 employees ,Full-time,Associate,118 applicants
+1228,10,"Gurugram, Haryana, India",Associate,id0031,Arbolus,Information Services,51-200 employees ,Full-time,Associate,1 applicant
+1229,143,"Bengaluru, Karnataka, India",Director Enterprise Item - Target India,id0297,Target,Retail,"10,001+ employees ",Full-time,Director,72 applicants
+1230,150,"Mumbai, Maharashtra, India",Trainer,id0305,TrainingInbox - Redefining Employability,Not Available,1-10 employees,Full-time,Entry level,12 applicants
+1231,112,"Peerancheru, Telangana, India",Associate Manager-CME,id0245,PepsiCo,Food and Beverage Services,"10,001+ employees ",Full-time,Mid-Senior level,5 applicants
+1232,55,India,BDA,id0123,Exotic Learning,Not Available,51-200 employees,Full-time,Entry level,21 applicants
+1233,144,"Dakshina Kannada, Karnataka, India",Part-time Remote Work for Urdu Speakers in India,id0298,TELUS International AI Data Solutions,IT Services and IT Consulting,"10,001+ employees ",Part-time,Entry level,70 applicants
+1234,116,"Sanand, Gujarat, India",Product Supply Manager,id0252,Procter & Gamble,Manufacturing,"10,001+ employees ",Full-time,Entry level,1 applicant
+1235,6,"South Delhi, Delhi, India",Arabic Linguist,id0027,Al-Hamd Haj & Umrah Tours,Not Available,201-500 employees,Full-time,Entry level,31 applicants
+1236,139,"Hyderabad, Telangana, India",Associate - Employee Referral,id0284,Sutherland,IT Services and IT Consulting,"10,001+ employees ",Full-time,Entry level,13 applicants
+1237,126,"Gurugram, Haryana, India",Assistant Manager Human Resources (Engagement),id0264,Sampark Search (I),Not Available,11-50 employees,Full-time,Entry level,40 applicants
+1238,4,Greater Madurai Area,HR Digital Transformation,id0025,Airbus,Aviation and Aerospace Component Manufacturing,"10,001+ employees ",Full-time,Mid-Senior level,3 applicants
+1239,11,"New Delhi, Delhi, India",Logistics Import Export Documentation Executive,id0032,ARC Worldwide Limited,Not Available,51-200 employees,Full-time,Entry level,17 applicants
+1240,26,"Bengaluru, Karnataka, India",Business Development Assistant,id0052,BYJU'S,"10,001+ employees",S,Full-time,Entry level,11 applicants
+1241,135,"Gurugram, Haryana, India",Business Development Executive,id0273,Square Yards,Not Available,"1,001-5,000 employees",Full-time,Entry level,16 applicants
+1242,39,"Bengaluru East, Karnataka, India",Training and Internship in Web Development,id0088,Corizo,Not Available,51-200 employees,Internship,Entry level,9 applicants
+1243,50,"Mumbai, Maharashtra, India",Senior Supply Associate,id0116,Dunzo," Technology, Information and Internet","5,001-10,000 employees ",Full-time,Mid-Senior level,73 applicants
+1244,69,"Pune, Maharashtra, India",College Intern,id0164,HP,IT Services and IT Consulting,"10,001+ employees ",Full-time,Internship,19 applicants
+1245,42,Greater Madurai Area,CASA Sales Officer,id0100,DBS Bank,Banking,"10,001+ employees ",Full-time,Entry level,1 applicant
+1246,70,"Bengaluru, Karnataka, India",Analyst,id0170,HSBC,Government Relations Services,51-200 employees ,Full-time,Entry level,1 applicant
+1247,14,"Delhi, India",Private Equity Associate,id0036,Avendus,Financial Services,201-500 employees ,Full-time,Entry level,1 applicant
+1248,142,"Gurugram, Haryana, India",Senior Executive,id0296,Talent Advisors,Not Available,51-200 employees,Full-time,Entry level,20 applicants
+1249,106,"Delhi, Delhi, India",Sales Associate,id0234,Opportunity jobs,Not Available,1-10 employees,Full-time,Entry level,4 applicants
+1250,69,"Pune, Maharashtra, India",College Intern,id0165,HP,IT Services and IT Consulting,"10,001+ employees ",Full-time,Internship,15 applicants
+1251,69,"Pune, Maharashtra, India",Intern/Graduate hire,id0166,HP,IT Services and IT Consulting,"10,001+ employees ",Part-time,Entry level,71 applicants
+1252,162,"Gurgaon, Haryana, India",Key accounts manager,id0319,White Force Group,Staffing and Recruiting,201-500 employees ,Full-time,Mid-Senior level,35 applicants
+1253,69,"Rajkot, Gujarat, India",Maintenance Engineer,id0167,HP,IT Services and IT Consulting,"10,001+ employees ",Full-time,Entry level,95 applicants
+1254,159,"Gurugram, Haryana, India",Virohan - Officer - Inside Sales,id0315,Virohan,Education Administration Programs,51-200 employees ,Full-time,Entry level,1 applicant
+1255,13,"Guwahati, Assam, India",Dean Science,id0035,Assam down town University,Not Available,"1,001-5,000 employees",Full-time,Entry level,2 applicants
+1256,80,India,Freelance,id0192,Jovees Herbal,Manufacturing,"10,001+ employees ",Contract,Entry level,31 applicants
+1257,39,India,Web Development Intern,id0086,Corizo,Not Available,51-200 employees,Internship,Entry level,1 applicant
+1258,3,"Mumbai, Maharashtra, India",Vacancy in airport ground staff Air ticketing Domestic & International,id0014,Airbov Solutions,IT Services and IT Consulting,11-50 employees ,Full-time,Executive,34 applicants
+1259,170,"Bengaluru, Karnataka, India",Circle Manager,id0330,Zyoin,Not Available,201-500 employees,Full-time,Entry level,11 applicants
+1260,65,"Kolkata, West Bengal, India",Subject Matter Expert,id0136,HaZZten,Not Available,11-50 employees,Full-time,Entry level,15 applicants
+1261,2,"Hyderabad, Telangana, India",Zonal Business Manager,id0013,Abbott,Hospitals and Health Care,"10,001+ employees ",Full-time,Associate,5 applicants
+1262,55,India,BDA,id0122,Exotic Learning,Not Available,51-200 employees,Full-time,Entry level,37 applicants
+1263,101,"Chennai, Tamil Nadu, India",Airport Ground Staff,id0221,NG Networks,Computer and Network Security,11-50 employees ,Full-time,Entry level,27 applicants
+1264,78,"Puducherry, Puducherry, India",UI Engineer,id0188,Jet Airways,Airlines and Aviation,"10,001+ employees ",Full-time,Entry level,6 applicants
+1265,50,"Bengaluru, Karnataka, India",Category Head - Grocery & Brand Partnerships,id0115,Dunzo," Technology, Information and Internet","5,001-10,000 employees ",Full-time,Director,152 applicants
+1266,121,"New Delhi, Delhi, India",Sales Executive-Delhi Office,id0259,Ribsha Global Services,Not Available,1-10 employees,Full-time,Entry level,16 applicants
+1267,95,"Kolkata, West Bengal, India",Back Office Executive,id0209,MSA Instruments,Airlines and Aviation,"10,001+ employees ",Full-time,Mid-Senior level,16 applicants
+1268,39,"Mumbai, Maharashtra, India",Cyber Security Intern,id0085,Corizo,Not Available,51-200 employees,Internship,Entry level,15 applicants
+1269,50,"Mumbai, Maharashtra, India",Supply Associate,id0114,Dunzo," Technology, Information and Internet","5,001-10,000 employees ",Full-time,Entry level,1 applicant
+1270,3,"Pune, Maharashtra, India",Airport Ground Staff,id0015,Airbov Solutions,IT Services and IT Consulting,11-50 employees ,Full-time,Executive,19 applicants
+1271,26,"Kochi, Kerala, India",Business Development Associate,id0053,BYJU'S,"10,001+ employees",S,Full-time,Entry level,8 applicants
+1272,78,"Rewari, Haryana, India",Network Engineer,id0189,Jet Airways,Airlines and Aviation,"10,001+ employees ",Full-time,Entry level,9 applicants
+1273,39,India,Web Development Intern,id0084,Corizo,Not Available,51-200 employees,Internship,Entry level,1 applicant
+1274,3,"Chandigarh, Chandigarh, India",Airport Job 2022 - Ground Staff & Air Ticketing,id0016,Airbov Solutions,IT Services and IT Consulting,11-50 employees ,Full-time,Executive,44 applicants
+1275,48,India,Freelance Recruiter,id0112,Dream to Grow,Not Available,1-10 employees,Full-time,Entry level,40 applicants
+1276,57,"Manesar, Haryana, India",Executive / AM - HR,id0125,Faurecia,Motor Vehicle Manufacturing,"10,001+ employees ",Full-time,Entry level,1 applicant
+1277,69,"Pune, Maharashtra, India",Intern/Graduate hire,id0162,HP,IT Services and IT Consulting,"10,001+ employees ",Part-time,Entry level,74 applicants
+1278,8,"Gurgaon, Haryana, India",Fresher for design in plastic parts.,id0029,Alpha Maier Private Limited,Not Available,25-50 employees,Full-time,Entry level,10 applicants
+1279,32,"Gurugram, Haryana, India",Marketing Intern,id0070,CityMall,Not Available,201-500 employees,Full-time,Entry level,5 applicants
+1280,87,"New Delhi, Delhi, India",Sales Officer,id0200,Mahaveer Group,Retail,11-50 employees ,Full-time,Entry level,16 applicants
+1281,71,"Mumbai, Maharashtra, India",Relationship Manager- Custody,id0173,ICICI Bank,Airlines and Aviation,"10,001+ employees ",Full-time,Mid-Senior level,56 applicants
+1282,145,"Navi Mumbai, Maharashtra, India",Program Associate - Placements,id0299,Testbook,E-Learning Providers,"501-1,000 employees ",Full-time,Entry level,27 applicants
+1283,51,"Delhi Cantonment, Delhi, India",Programme Manager - India,id0117,eduCLaaS,Professional Training and Coaching,51-200 employees ,Full-time,Mid-Senior level,19 applicants
+1284,36,"Bengaluru, Karnataka, India",Head of Department - Expertise Family (IN_CI_),id0075,Confidential,Not Available,"10,001+ employees",Full-time,Entry level,1 applicant
+1285,98,"Ghaziabad, Uttar Pradesh, India",Hiring TGT English,id0218,NCR Eduservices,Education Administration Programs,201-500 employees ,Full-time,Entry level,1 applicant
+1286,42,"Periyakulam, Tamil Nadu, India",CASA Sales Officer,id0101,DBS Bank,Banking,"10,001+ employees ",Full-time,Entry level,1 applicant
+1287,164,"Kolkata, West Bengal, India",Associate/Officer/Sr. Officer,id0324,Wipro,IT Services and IT Consulting,"10,001+ employees ",Full-time,Entry level,30 applicants
+1288,123,"Sahibzada Ajit Singh Nagar, Punjab, India",Data Entry Clerk,id0261,Roots Analysis,Not Available,51-200 employees,Full-time,Entry level,28 applicants
+1289,61,"Gurugram, Haryana, India",Manager,id0129,Globner Consulting,Not Available,11-50 employees,Full-time,Entry level,33 applicants
+1290,45,"Gurgaon, Haryana, India",Maintenance Engineer,id0109,DHINGRA PHARMA," Appliances, Electrical, and Electronics Manufacturing",1-10 employees ,Full-time,Entry level,1 applicant
+1291,84,India,Business Development Associate,id0197,LEJHRO,Not Available,"10,001+ employees",Full-time,Entry level,25 applicants
+1292,113,"Gurugram, Haryana, India",Entrepreneur In Residence | Core Team,id0246,Philom,Not Available,1-10 employees,Full-time,Entry level,28 applicants
+1293,117,"Gurugram, Haryana, India",Senior Associate,id0254,PwC,Accounting,"10,001+ employees ",Full-time,Mid-Senior level,58 applicants
+1294,69,"Pune, Maharashtra, India",College Intern,id0168,HP,IT Services and IT Consulting,"10,001+ employees ",Full-time,Internship,10 applicants
+1295,110,"Gurugram, Haryana, India",Program Manager : Supply Excellence,id0242,OYO," Technology, Information and Internet","5,001-10,000 employees ",Full-time,Mid-Senior level,1 applicant
+1296,139,"Chennai, Tamil Nadu, India",Pipeline Requisition - Employee Referral,id0292,Sutherland,IT Services and IT Consulting,"10,001+ employees ",Full-time,Entry level,1 applicant
+1297,78,"Bengaluru, Karnataka, India",Lab Technician,id0190,Jet Airways,Airlines and Aviation,"10,001+ employees ",Full-time,Entry level,1 applicant
+1298,3,"Dehradun, Uttarakhand, India",AIRPORT GROUND STAFF VACANCY FOR DEHRADUN,id0021,Airbov Solutions,IT Services and IT Consulting,11-50 employees ,Full-time,Executive,66 applicants
+1299,47,"Delhi, India",Business Development Executive,id0111,DPT Hub Private Ltd.,Not Available,11-50 employees,Full-time,Entry level,23 applicants
+1300,4,Greater Madurai Area,Digital Services Business Developer China,id0023,Airbus,Aviation and Aerospace Component Manufacturing,"10,001+ employees ",Full-time,Mid-Senior level,1 applicant
+1301,148,"Delhi, Delhi, India","Human Resources (HR) Internship in Gurgaon, Delhi at TNC Aviation",id0303,TNC AVIATION,Airlines and Aviation,11-50 employees ,Full-time,Internship,24 applicants
+1302,129,"Bengaluru, Karnataka, India",Procurement Executive,id0267,Schneider Electric," Appliances, Electrical, and Electronics Manufacturing","10,001+ employees ",Full-time,Mid-Senior level,1 applicant
+1303,69,"Pune, Maharashtra, India",Intern/Graduate hire,id0169,HP,IT Services and IT Consulting,"10,001+ employees ",Part-time,Entry level,76 applicants
+1304,139,"Hyderabad, Telangana, India",Lead - Data Scientist / Analytics,id0293,Sutherland,IT Services and IT Consulting,"10,001+ employees ",Full-time,Mid-Senior level,21 applicants
+1305,42,"Tumkur, Karnataka, India",Branch Operations Head,id0098,DBS Bank,Banking,"10,001+ employees ",Full-time,Entry level,2 applicants
+1306,151,"Delhi, India",Content Writers on Intern to Hire Model,id0306,triedge.in,Not Available,11-50 employees,Internship,Entry level,47 applicants
+1307,23,"Mumbai, Maharashtra, India",Assistant Manager - Sales (TribeVibe),id0046,BookMyShow,Entertainment Providers,"1,001-5,000 employees ",Full-time,Mid-Senior level,40 applicants
+1308,73,"Delhi, India",Client Services Representative,id0176,IndiaMART InterMESH Limited,Airlines and Aviation,"10,001+ employees ",Full-time,Entry level,33 applicants
+1309,94,"Ahmedabad, Gujarat, India",Trainer,id0208,Motilal Oswal Financial Services Ltd,Not Available,1-10 employees,Full-time,Entry level,4 applicants
+1310,30,"Pune, Maharashtra, India",Intern,id0066,Cerence Inc.,Software Development,"1,001-5,000 employees ",Full-time,Internship,59 applicants
+1311,38,"Pune, Maharashtra, India",Business Development Executive,id0077,Consultative HR Solutions,Not Available,1-10 employees,Full-time,Entry level,1 applicant
+1312,97,"Gurgaon, Haryana, India","Risk Assurance Officer, Associate",id0217,NatWest Group,Banking,"10,001+ employees ",Full-time,Entry level,1 applicant
+1313,26,"Delhi, India",Inside Sales Associate,id0054,BYJU'S,"10,001+ employees",S,Full-time,Entry level,21 applicants
+1314,64,"Salem, Tamil Nadu, India",Drywall Estimator,id0134,gpac,Staffing and Recruiting,"501-1,000 employees ",Full-time,Entry level,1 applicant
+1315,3,"Pune, Maharashtra, India",Airport Ground Handling Job in Pune,id0022,Airbov Solutions,IT Services and IT Consulting,11-50 employees ,Full-time,Executive,45 applicants
+1316,64,"Salem, Tamil Nadu, India",Drywall Estimator,id0135,gpac,Staffing and Recruiting,"501-1,000 employees ",Full-time,Entry level,1 applicant
+1317,168,"Gurugram, Haryana, India",Golden Source,id0328,Zaphire?,Not Available,11-50 employees,Full-time,Entry level,1 applicant
+1318,101,"Kochi, Kerala, India",Vacancy in airport ground staff Air ticketing Domestic & International,id0222,NG Networks,Computer and Network Security,11-50 employees ,Internship,Entry level,13 applicants
+1319,43,"Hyderabad, Telangana, India","Steel Detailer, Modeler, Checker",id0107,Deccancad Engineering Pvt. Ltd.,Not Available,500+ employees,Full-time,Entry level,49 applicants
+1320,41,"Kolkata, West Bengal, India","Associate, Totogi (Remote)",id0097,Crossover,IT Services and IT Consulting,"1,001-5,000 employees ",Full-time,Mid-Senior level,63 applicants
