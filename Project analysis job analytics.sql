@@ -1,19 +1,20 @@
 create database job_analytics_project ; 
 
+use job_analytics_project ; 
 
-#the 3 tables
+--the 3 tables
 select * from fjobs;
 select * from fcompany;
 select * from fdetails;
 
-#joining the tables
+--joining the tables
 select * from fjobs
 inner join fcompany 
 on fcompany.company_id = fjobs.companyid
 inner join fdetails
 on fdetails.details_id = fjobs.details_id;
 
-##output table and removing duplicate rows
+--output table and removing duplicate rows
 select * from 
 (select Job_id,Companyid,location,designation,fdetails.details_id,company_name,industry,number_of_employees,
 involvement,level,total_Applicants,ROW_NUMBER() over(partition by job_id order by job_id) as rn from 
