@@ -132,13 +132,16 @@ linkedin-job-analysis/
 
 **Saurav Labade**  
 Data Analyst | ClickHouse Specialist  
-[LinkedIn](https://www.linkedin.com/in/your-profile) • [GitHub](https://github.com/your-username)
+[LinkedIn](https://www.linkedin.com/in/sauravlabade98/) • [GitHub](https://github.com/saurav123-ux)
 
 ---
+
+## 📊 Dashboard Preview
+
+![Job_Analytics Dashboard Screenshot](https://github.com/saurav123-ux/Job-Analytics-Project-/assets/72132210/ed6b78b4-6826-415b-9083-59121faf180a)
+
+
 
 ## 📄 License
 
 This project is for educational and portfolio purposes only. Data scraped from LinkedIn is used solely for non-commercial analysis.
-
-
-![Job_Analytics Dashboard Screenshot](https://github.com/saurav123-ux/Job-Analytics-Project-/assets/72132210/ed6b78b4-6826-415b-9083-59121faf180a)
